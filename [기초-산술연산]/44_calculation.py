@@ -1,0 +1,7 @@
+i, j = map(int, input().split())
+print(i+j)
+print(i-j)
+print(i*j)
+print(i//j)
+print(i % j)
+print(format(i/j, ".2f"))
